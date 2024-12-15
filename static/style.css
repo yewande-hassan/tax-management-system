@@ -1,0 +1,20 @@
+body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            margin-top: 30px;
+        }
+        h1, h2 {
+            color: #343a40;
+        }
+        .table th, .table td {
+            vertical-align: middle;
+            text-align: center;
+        }
+        .btn-primary, .btn-danger {
+            padding: 5px 15px;
+        }
+        .table-container {
+    max-height: 400px;
+    overflow-y: auto;
+    }
